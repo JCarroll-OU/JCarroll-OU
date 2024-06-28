@@ -28,4 +28,5 @@
 |     |     |
 | --- | --- |
 | ![JCarroll-OU Stats](https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient) | ![JCarroll-OU Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient) |
-<p align="center"> ![JCarroll-OU Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jcarroll-ou&show_icons=true&locale=en&layout=compact&theme=ambient_gradient)</p>
+
+<p align="center"><img src="[https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png](https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient)" alt="JCarroll-OU"/></p>
