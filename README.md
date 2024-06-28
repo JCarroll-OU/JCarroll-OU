@@ -53,11 +53,19 @@
   <td>Blender</td>
   <td>MATLAB</td>
   <td>Unity</td>
+  <td>Fusion360</td>
+  <td>EaglePCB</td>
+  <td>Solidworks</td>
+  <td>OrcaSlicer</td>
 </tr>
 <tr>
   <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a></td>
   <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
   <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></td>
+   <td><a href="https://www.autodesk.com/products/fusion-360/education" target="_blank" rel="noreferrer"><img src="https://www.cadlinecommunity.co.uk/hc/article_attachments/5338608858781/autodesk-fusion-360-product-icon-128_2x.png" alt="Fusion360" width="40" height="40"/></a></td>
+  <td><a href="https://www.autodesk.com/products/eagle/overview?term=1-YEAR&tab=subscription&plc=FSN" target="_blank" rel="noreferrer"><img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" alt="EaglePCB" width="40" height="40"/></a></td>
+  <td><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/71769312/227775653-d28a9cdc-f0e0-4174-aa84-c54c2b7e2879.jpg" alt="Solidworks" width="40" height="40"/></a></td>
+  <td><a href="https://github.com/SoftFever/OrcaSlicer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/orcaslicer-logo.png" alt="Orcaslicer" width="40" height="40"/></a></td>
 </table>
 
 
