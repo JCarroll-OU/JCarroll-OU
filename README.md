@@ -31,4 +31,4 @@
 </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcarroll-ou&show_icons=true&locale=en" alt="JCarroll-OU"/></p>
