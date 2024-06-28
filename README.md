@@ -29,4 +29,16 @@
 | --- | --- |
 | ![JCarroll-OU Stats](https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient) | ![JCarroll-OU Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient) |
 
+<table>
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
+<tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient" alt="JCarroll-OU"/></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></td>
+</tr>
+</table>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></p>
