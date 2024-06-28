@@ -26,8 +26,8 @@
 
 <table border="0">
 <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient" alt="JCarroll-OU"/></td>
-  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></td>
+  <td style="border-bottom-style: hidden;"><img src="https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient" alt="JCarroll-OU"/></td>
+  <td style="border-bottom-style: hidden;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></td>
 </tr>
 </table>
 
