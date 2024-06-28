@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarroll-ou&label=Profile%20views&color=0e75b6&style=flat" alt="jcarroll-ou" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcarroll-ou&theme=onedark)](https://github.com/jcarroll-ou/github-profile-trophy)
 
 - 🔭 I’m currently working on a [Biomimetic Human Hand.](https://github.com/JCarroll-OU/Biomimetric-Human-Hand)
 
