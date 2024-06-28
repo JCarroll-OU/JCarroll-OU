@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on a [Biomimetic Human Hand.](https://github.com/JCarroll-OU/Biomimetric-Human-Hand)
 
-- 🌱 I’m currently studying **robotics and control theory.**
+- 🌱 I’m currently studying robotics and control theory.
 
-- 💬 Ask me about **biomimetric robotics and control theory.**
+- 💬 Ask me about biomimetric robotics and control theory.
 
-- 📫 Contact me at **james.a.carroll-1@ou.edu.**
+- 📫 Contact me at: **james.a.carroll-1@ou.edu**.
 
-- ⚡ Fun fact **I'm a huge fan of Cyberpunk 2077 and my goal is to make sure that 'kinda chrome won't cost you too many eddies, choom!.'**
+- ⚡ Fun fact: **I'm a huge fan of Cyberpunk 2077 and my goal is to make sure that 'kinda chrome won't cost you too many eddies, choom!'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
