@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently studying robotics and control theory.
 
-- 💬 Ask me about biomimetric robotics and control theory.
+- 💬 Ask me about biomimetric robots and their applications.
 
 - 📫 Contact me at: **james.a.carroll-1@ou.edu**.
 
