@@ -37,7 +37,7 @@ blockquote {
 }
 </style>
 |     |     |
-| --- | ---:|
+| --- | --- |
 | ![JCarroll-OU Stats](https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient) | ![JCarroll-OU Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient) |
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcarroll-ou&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="jcarroll-ou"/></p>
