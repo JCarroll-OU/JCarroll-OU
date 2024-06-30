@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently studying robotics and control theory.
 
-- 💬 Ask me about biomimetric robots and their applications.
+- 💬 Ask me about biomimetic robots and their applications.
 
 - 📫 Contact me at: **james.a.carroll-1@ou.edu**.
 
-- ⚡ Fun fact: **I'm a huge fan of Cyberpunk 2077 and my goal is to make sure that 'kinda chrome won't cost you too many eddies, choom!'**
+- ⚡ Fun fact: **That 'kinda chrome won't cost you too many eddies, choom!'**
 
 ---
 
