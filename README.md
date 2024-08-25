@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm James Carroll</h1>
-<h3 align="center">A mechanical engineering student at the University of Oklahoma.</h3>
+<h3 align="center">A junior mechanical engineering student at the University of Oklahoma.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarroll-ou&label=Profile%20views&color=0e75b6&style=flat" alt="jcarroll-ou" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jcarroll-ou&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on a [Biomimetic Human Hand.](https://github.com/JCarroll-OU/Biomimetric-Human-Hand)
+- 🔭 I’m currently working on a [Biomimetic Human Hand.](https://github.com/JCarroll-OU/Biomimetric-Human-Hand) in my spare time
 
-- 🌱 I’m currently studying robotics and control theory.
-
-- 💬 Ask me about biomimetic robots and their applications.
+- 🌱 My interests lie within robotics and rocketry.
 
 - 📫 Contact me at: **james.a.carroll-1@ou.edu**.
-
-- ⚡ Fun fact: **That 'kinda chrome won't cost you too many eddies, choom!'**
 
 ---
 
