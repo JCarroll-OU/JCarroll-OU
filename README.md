@@ -5,9 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jcarroll-ou&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on a [Biomimetic Human Hand.](https://github.com/JCarroll-OU/Biomimetric-Human-Hand) in my spare time
-
-- 🌱 My interests lie within robotics and rocketry.
+- 🌱 My interests lie within robotics, rocketry, and everything between.
 
 - 📫 Contact me at: **james.a.carroll-1@ou.edu**.
 
