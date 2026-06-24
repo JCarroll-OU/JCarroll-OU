@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm James Carroll</h1>
-<h3 align="center">A junior mechanical engineering student at the University of Oklahoma.</h3>
+<h3 align="center">A graduate mechanical engineering student at the University of Oklahoma. My research focuses on autonomous control systems near small-bodies such as asteroids and comets!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarroll-ou&label=Profile%20views&color=0e75b6&style=flat" alt="jcarroll-ou" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jcarroll-ou&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 My interests lie within robotics, rocketry, and everything between.
-
-- 📫 Contact me at: **james.a.carroll-1@ou.edu**.
+My interests include programming, robotics, rocketry, and algo-trading. A (non-exhaustive) list of my past work is included in my repositories. 
+MATLAB/Simulink projects, thinkScript documents, and python-bots excluded. 
 
 ---
 
