@@ -50,7 +50,7 @@
   <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://p7.hiclipart.com/preview/242/418/403/unity-video-game-logo-augmented-reality-game-engine-others.jpg" alt="unity" width="40" height="40"/></a></td>
    <td><a href="https://www.autodesk.com/products/fusion-360/education" target="_blank" rel="noreferrer"><img src="https://www.cadlinecommunity.co.uk/hc/article_attachments/5338608858781/autodesk-fusion-360-product-icon-128_2x.png" alt="Fusion360" width="40" height="40"/></a></td>
   <td><a href="https://www.autodesk.com/products/eagle/overview?term=1-YEAR&tab=subscription&plc=FSN" target="_blank" rel="noreferrer"><img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" alt="EaglePCB" width="40" height="40"/></a></td>
-  <td><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="[https://banner2.cleanpng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg](https://www.clipartmax.com/png/small/100-1005150_solidworks-solid-works-logo-png.png)" alt="Solidworks" width="40" height="40"/></a></td>
+  <td><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="Solidworks" width="40" height="40"/></a></td>
   <td><a href="https://github.com/SoftFever/OrcaSlicer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/orcaslicer-logo.png" alt="Orcaslicer" width="40" height="40"/></a></td>
 </table>
 
