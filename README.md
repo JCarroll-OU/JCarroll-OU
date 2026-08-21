@@ -19,7 +19,7 @@ I work on **station-keeping control for spacecraft hovering near small bodies**.
 
 The equilibrium is a saddle and the environment is highly perturbed. I'm running a controlled comparison of three disturbance-rejection architectures against that problem:
 
-| Approach | Method |
+| Method |   |
 | --- | --- |
 | **DOBC** | Disturbance-observer-based control |
 | **ESO** | Extended state observer control |
