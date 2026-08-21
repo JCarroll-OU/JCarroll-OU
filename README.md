@@ -1,66 +1,100 @@
-<h1 align="center">Hi 👋, I'm James Carroll</h1>
-<h3 align="center">M.S. Mechanical Engineering Student with a research focus in autonomous control systems. </h3>
- Seeking R&D or GNC Engineering roles.
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarroll-ou&label=Profile%20views&color=0e75b6&style=flat" alt="jcarroll-ou" /> </p>
+# James Carroll
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/james-carroll-ou26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Carroll LinkedIn" height="30" width="40" /></a>
-</p>
+**M.S. Mechanical Engineering — University of Oklahoma**
 
-<h3 align="left">Languages and Frameworks:</h3>
-<table border="0">
-<tr>
-  <td>Arduino</td>
-  <td>C</td>
-  <td>C++</td>
-  <td>C#</td>
-  <td>.NET</td>
-  <td>Java</td>
-  <td>Python</td>
-  <td>Pandas</td>
-  <td>TensorFlow</td>
-</tr>
-<tr>
-  <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
-  <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-  <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-  <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a></td>
-  <td>  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-  <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-  <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-  <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
-</table>
+Spacecraft GNC · Nonlinear & Adaptive Control · State Estimation
 
-<h3 align="left">Tools:</h3>
-<table border="0">
-<tr>
-  <td>Blender</td>
-  <td>MATLAB</td>
-  <td>Unity</td>
-  <td>Fusion360</td>
-  <td>EaglePCB</td>
-  <td>Solidworks</td>
-  <td>OrcaSlicer</td>
-</tr>
-<tr>
-  <td><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a></td>
-  <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-  <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://p7.hiclipart.com/preview/242/418/403/unity-video-game-logo-augmented-reality-game-engine-others.jpg" alt="unity" width="40" height="40"/></a></td>
-   <td><a href="https://www.autodesk.com/products/fusion-360/education" target="_blank" rel="noreferrer"><img src="https://www.cadlinecommunity.co.uk/hc/article_attachments/5338608858781/autodesk-fusion-360-product-icon-128_2x.png" alt="Fusion360" width="40" height="40"/></a></td>
-  <td><a href="https://www.autodesk.com/products/eagle/overview?term=1-YEAR&tab=subscription&plc=FSN" target="_blank" rel="noreferrer"><img src="https://fabacademy.org/2018/docs/FabAcademy-Tutorials/week6_electronic_design/eagle_english/logo.png" alt="EaglePCB" width="40" height="40"/></a></td>
-  <td><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="Solidworks" width="40" height="40"/></a></td>
-  <td><a href="https://github.com/SoftFever/OrcaSlicer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/orcaslicer-logo.png" alt="Orcaslicer" width="40" height="40"/></a></td>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-carroll-ou26/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:james.a.carroll-1@ou.edu)
 
+</div>
 
-<table border="0">
-<tr>
-  <td style="border-bottom-style: hidden;"><img src="https://github-readme-stats.vercel.app/api?username=jcarroll-ou&show_icons=true&locale=en&theme=ambient_gradient" alt="JCarroll-OU"/></td>
-  <td style="border-bottom-style: hidden;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcarroll-ou&theme=ambient_gradient" alt="JCarroll-OU"/></td>
-</tr>
-</table>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcarroll-ou&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="JCarroll-OU"/></p>
+## Research
+
+I work on **station-keeping control for spacecraft hovering near small bodies**. My thesis studies artificial equilibrium points in the photogravitational circular restricted three-body problem. Points at which solar radiation pressure and gravity are balanced so a spacecraft can hold proximity with minimal effort.
+
+The equilibrium is a saddle and the environment is highly perturbed. I'm running a controlled comparison of three disturbance-rejection architectures against that problem:
+
+| Approach | Method |
+| --- | --- |
+| **DOBC** | Disturbance-observer-based control |
+| **ESO** | Extended state observer control |
+| **ASMC** | Adaptive-gain sliding mode control |
+
+Two of these estimate the disturbance and subtract it while one dominates it with switching gain. Evaluation is based on tracking error, settling time, fuel use, and computational cost across a Monte Carlo campaign that randomizes body geometry, gravity-field irregularity, and disturbance magnitude.
+
+*Advisor: Dr. Diogo M. Sanchez · Expected May 2027*
+
+---
+
+## Selected Projects
+
+**🛰️ Photogravitational CR3BP Simulation Framework**
+Python simulation stack for the thesis: polyhedral gravity modeling over procedurally generated tri-axial ellipsoid asteroids, ray-cast shadow geometry for SRP occlusion, and an interactive 3D plotting layer.
+
+**📷 Vision-Based Relative Navigation Testbed**
+Hardware-in-the-loop testbed pairing a 3D-printed analog body with a camera on an actuated stage for ground-truth pose. Landmark-based relative pose estimator fusing feature tracking with an EKF, benchmarked against ground truth for sensitivity to illumination angle and surface feature distribution.
+
+**🤖 Biomimetic Robotic Hand**
+3D-printed hand matching human joint articulation across all fingers and thumb. Custom DC motor controller designed from schematic through PCB layout, integrated potentiometer feedback with PID for position control, with USB/SPI comms and a vision-based pose estimation layer driving actuator setpoints.
+
+**🔧 Powder-Fed DED Nozzle — Tinker AFB Capstone**
+Mechanical design lead on a nozzle for an Optomec directed-energy-deposition machine, targeting confined weld-repair access. MATLAB and ANSYS modeling of powder transport and thermal response drove the geometry; final design improved powder capture by 4.5% over the OEM reference in a smaller footprint.
+
+**🧗 Pipe-Climbing Robot**
+3rd of 25 teams in the OU Robotics Club competition. Wrote the embedded control software coordinating the climb and arm subsystems.
+
+---
+
+## Toolbox
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square&logo=mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**Scientific Computing**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat-square&logo=mathworks&logoColor=white)
+
+**Design & Analysis**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E31E24?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-F57C00?style=flat-square&logo=autodesk&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+**Embedded & Tooling**
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+**Domain**
+Kalman filtering · nonlinear and adaptive control · orbital mechanics · state estimation · embedded systems
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCarroll-OU&show_icons=true&hide_border=true&theme=transparent&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCarroll-OU&layout=compact&hide_border=true&theme=transparent)
+
+</div>
+
+---
+
+<div align="center">
+
+**Seeking R&D and GNC engineering roles.** EIT — FE Mechanical · ITAR eligible (U.S. citizen)
+
+</div>
