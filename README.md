@@ -86,15 +86,6 @@ Kalman filtering · nonlinear and adaptive control · orbital mechanics · state
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCarroll-OU&show_icons=true&hide_border=true&theme=transparent&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCarroll-OU&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
-<div align="center">
-
 **Seeking R&D and GNC engineering roles.** EIT — FE Mechanical · ITAR eligible (U.S. citizen)
 
 </div>
