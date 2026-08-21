@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Carroll</h1>
-<h3 align="center">Mechanical engineering M.S. candidate specializing in control systems, with spacecraft GNC research and hands-on experience in embedded control, custom hardware, and simulation-driven design.</h3>
+<h3 align="center">M.S. Mechanical Engineering Student with a research focus in autonomous control systems. </h3>
+ Seeking R&D or GNC Engineering roles.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcarroll-ou&label=Profile%20views&color=0e75b6&style=flat" alt="jcarroll-ou" /> </p>
 
